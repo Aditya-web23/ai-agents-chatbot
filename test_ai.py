@@ -1,0 +1,1 @@
+print("AI Practical Setup Successful")
